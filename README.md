@@ -6,7 +6,7 @@ Nesse repositório irei guardar meus estudos e projetos da disciplina programaç
 
 <div align='center' width='100%'>
   
- ![image](https://github.com/Gustavonn07/SMD-Program1/assets/84361085/dd2f4753-923e-41c3-9fa1-f470585a7198)
+ ![image](https://github.com/Gustavonn07/SMD-Program1/assets/84361085/b4361027-c236-4be1-97e7-f7db7105a4e8)
   
 </div>
 
